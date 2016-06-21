@@ -4,6 +4,8 @@
 
 int min=0,max=0;
 
+//lalalaaa
+
 typedef struct node
 {
     int key;
