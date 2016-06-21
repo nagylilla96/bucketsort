@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465939798 source:c:\users\lilla\desktop\bucketsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
